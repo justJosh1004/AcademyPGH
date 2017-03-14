@@ -1,4 +1,4 @@
-require './converter'
+require './lib/converter'
 
 convert = RomanConverter.new
 puts "Enter a number to convert: "
